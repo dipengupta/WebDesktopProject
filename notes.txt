@@ -1,0 +1,6 @@
+nvm  -> picks Node version
+Node -> runtime that executes tools/servers
+npm  -> installs packages & runs scripts from package.json
+
+React -> UI component library (browser + optional server render)
+Next  -> Framework around React (routing, SSR/SSG, API routes, build)
