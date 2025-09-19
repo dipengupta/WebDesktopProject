@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55af3b7f-8993-42d3-aee4-7472ace01bfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/webdesktopproject/stylelint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/app/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/app/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webdesktopproject/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/.editorconfig" previewFile="$PROJECT_DIR$/notes.txt" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32sUSySjf06Bvb12D7TLx3VsSaT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.localhost:3000.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/dipen/Desktop/Scripts/WebDesktopProject/notes.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/dipen/.config/JetBrains/WebStorm2025.2/node/versions/22.19.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
+    "ts.external.directory.path": "/home/dipen/Desktop/Scripts/WebDesktopProject/webdesktopproject/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webdesktopproject" />
+      <recent name="$PROJECT_DIR$/webdesktopproject/app" />
+      <recent name="$PROJECT_DIR$/webdesktopproject/pages" />
+      <recent name="$PROJECT_DIR$/webdesktopproject/styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:3000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55af3b7f-8993-42d3-aee4-7472ace01bfa" name="Changes" comment="" />
+      <created>1758208778804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758208778804</updated>
+      <workItem from="1758208780413" duration="21000" />
+      <workItem from="1758208811397" duration="18038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
