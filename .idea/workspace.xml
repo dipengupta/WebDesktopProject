@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55af3b7f-8993-42d3-aee4-7472ace01bfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/webdesktopproject/stylelint.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesktopproject/app/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/app/styles/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesktopproject/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesktopproject/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesktopproject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdesktopproject/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/webdesktopproject/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +26,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.localhost:3000.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/dipen/Desktop/Scripts/WebDesktopProject/notes.txt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/home/dipen/.config/JetBrains/WebStorm2025.2/node/versions/22.19.0/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
-    "ts.external.directory.path": "/home/dipen/Desktop/Scripts/WebDesktopProject/webdesktopproject/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.localhost:3000.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dipen/Desktop/WebDesktopProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/dipen/.config/JetBrains/WebStorm2025.2/node/versions/22.19.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/dipen/Desktop/Scripts/WebDesktopProject/webdesktopproject/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/webdesktopproject/app" />
@@ -85,6 +79,8 @@
       <updated>1758208778804</updated>
       <workItem from="1758208780413" duration="21000" />
       <workItem from="1758208811397" duration="17726000" />
+      <workItem from="1758297264998" duration="59000" />
+      <workItem from="1758297339825" duration="56000" />
     </task>
     <servers />
   </component>

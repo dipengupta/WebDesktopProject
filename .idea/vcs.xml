@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Scripts/chome_system_font_flattener" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Scripts/chrome_js_blocker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Website/personal-website" vcs="Git" />
+  </component>
+</project>
