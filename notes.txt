@@ -11,3 +11,4 @@ TypeScript -> JavaScript wrapper
 
 ESLint -> static analysis for JS
 StyleLint -> static analysis for css,scss
+Prettier -> code formatting
