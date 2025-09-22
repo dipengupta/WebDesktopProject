@@ -7,7 +7,8 @@
     "build": "next build --turbopack",
     "start": "next start",
     "stylelint": "stylelint **/*.scss",
-    "prettier": "prettier --check ."
+    "prettier": "prettier --check .",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,7 @@
   },
   "homepage": "https://github.com/dipengupta/WebDesktopProject#readme",
   "dependencies": {
-    "next": "15.5.3",
+    "next": "^15.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "sass": "^1.92.1"
@@ -30,11 +31,18 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.0",
     "prettier": "3.6.2",
     "stylelint": "^16.24.0",
+    "stylelint-config-sass-guidelines": "^12.1.0",
     "stylelint-config-standard": "^39.0.0",
     "stylelint-config-tailwindcss": "^1.0.0",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "lint-staged": {
+    "*.css": "stylelint --fix",
+    "*": "prettier --write"
   }
 }
